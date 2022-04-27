@@ -1,4 +1,4 @@
-# 2110221-FinalProject
+# Web Application StudyTogether
 
 ## Details
 

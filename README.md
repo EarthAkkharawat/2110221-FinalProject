@@ -13,6 +13,9 @@ Made as part of final project in 2110221 Computer Engineering Essentials, semest
 
 Link to ours website: [StudyTogether](https://testfirebase-b134a.web.app/)
 
+Link to ours documentation: [StudyTogether documentation](https://drive.google.com/file/d/1BVH6y-2NEhOG00P2hE0y63-Ot-nXCqcQ/view?usp=sharing)
+
+
 ## Web Features
 
 - Login/Logout
